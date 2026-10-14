@@ -43,6 +43,6 @@ Variável de ambiente no painel do projeto: `GOOGLE_CLIENT_ID` (o Client ID do O
 
 ## Identificação (preencha após o fork)
 
-Nome: 
-RA: 
+Nome: Alexandre Vieira
+RA: 2025105143
 URL: https://2bim-avalia1-47y.pages.dev
