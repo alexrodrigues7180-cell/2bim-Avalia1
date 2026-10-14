@@ -45,4 +45,4 @@ Variável de ambiente no painel do projeto: `GOOGLE_CLIENT_ID` (o Client ID do O
 
 Nome: 
 RA: 
-URL: https://
+URL: https://2bim-avalia1-47y.pages.dev
